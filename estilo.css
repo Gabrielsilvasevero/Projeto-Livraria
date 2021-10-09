@@ -1,0 +1,66 @@
+.corpo{
+    width: 99%;
+ 
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    background-color: #D1BF91;
+}
+.menu{
+    width: 100%;
+    height: 150px;
+    background-color: #60371E;
+    
+}
+.link-menu{
+    width: 100%;
+    height: 50px;
+    border: beige 1px solid;
+ 
+ 
+}
+.navbar{
+    height: 50px;
+     
+}
+
+
+.banner{
+    width: 90%;
+    height: 300px;
+    border: 1px solid black;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.conteudo{
+    width: 90%;
+   text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.tag{
+    color: #A6341B;
+    margin-top: 5%;
+    
+}
+.livro{
+    width: 200;
+    height: 400;
+    display: inline-block;
+    text-align: center;
+    margin-left: 2%;
+}
+.imagem{
+    width: 200;
+    height: 300;
+    background-color:  #A6341B;
+    box-shadow: inset 0 0 1em gold, 0 0 1em rgb(0, 0, 0);
+}
+a.btn{
+    background-color: #A6341B;
+    font-size: 20px;
+    color: #D1BF91;
+    width: 200px;
+   
+}

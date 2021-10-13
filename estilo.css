@@ -1,6 +1,6 @@
 .corpo{
     width: 99%;
- 
+    height: 1800px;
     margin-left: 0.5%;
     margin-right: 0.5%;
     background-color: #D1BF91;
@@ -63,4 +63,23 @@ a.btn{
     color: #D1BF91;
     width: 200px;
    
+}
+.rodape-principal{
+    width: 100%;
+    height: 150px;
+
+    margin-top: 3%;
+}
+.Rodape{
+    width: 30%;
+    height: 150px;
+ 
+    background-color: #F9C743;
+    display: inline-table;
+    margin-left: 15px;
+ 
+    
+}
+.texto-rodape{
+    height: 50px;
 }
